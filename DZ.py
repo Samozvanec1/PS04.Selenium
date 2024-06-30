@@ -98,16 +98,3 @@ def inmenu():
         driver.quit()
 menu()
 
-# paragraphs = driver.find_elements(By.TAG_NAME, "p")
-# for p in paragraphs:
-#     print(p.text)
-#     input("Press Enter to continue...")
-
-# hatnote = choice(hatnotes) # выбор случайного элемента из списка
-# link = hatnote.find_element(By.TAG_NAME, "a").get_attribute("href") # получение атрибута "href" элемента с помощью метода get_attribute
-# driver.get(link) # переход по ссылке при помощи метода get
-# sleep(3)
-#
-# driver.save_screenshot("test.png") # сохранение скриншота
-# sleep(3)
-# driver.quit() # закрытие браузера
