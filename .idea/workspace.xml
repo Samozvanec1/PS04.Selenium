@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83d164bd-fc5c-4f75-be1e-c9aad44cd5f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PS04.Selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video3.py" afterDir="false" />
+    <list default="true" id="83d164bd-fc5c-4f75-be1e-c9aad44cd5f5" name="Changes" comment="Добили">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,17 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DZ.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.otsebyatina.executor": "Run",
-    "Python.q.executor": "Run",
-    "Python.video2.executor": "Run",
-    "Python.video3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.otsebyatina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,6 +58,15 @@
       <option name="presentableId" value="Default" />
       <updated>1719603887726</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добили">
+      <option name="closed" value="true" />
+      <created>1719760693026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719760693026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добили" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добили" />
   </component>
 </project>
